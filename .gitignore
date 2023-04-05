@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Telegram bot API token (must be kept secret)
+token.txt
+
+# File with user scores
+state.pickle
+
+# Python cache
+__pycache__
+__pycache__/*
